@@ -1,6 +1,6 @@
 # pytester_test_repo
 
-Copyright (c) 2021, programmingwithalex
+Copyright (c) 2021, [programmingwithalex](https://github.com/programmingwithalex)
 
 ## Description
 
