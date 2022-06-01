@@ -8,6 +8,8 @@ def add(a, b) -> int:
 
 def to_sentence(s) -> str:
     s = s.capitalize()
+    s = s.lower()
+    s = s.capitalize()
 
     if s.endswith('.'):
         return s
