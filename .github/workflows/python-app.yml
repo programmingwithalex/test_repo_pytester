@@ -37,9 +37,9 @@ jobs:
       COVERAGE_TOTAL: 60
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@main
     - name: Set up Python 3.9
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@main
       with:
         python-version: 3.9
     - name: Install dependencies
@@ -50,7 +50,7 @@ jobs:
 
     - name: pytester-cov
       id: pytester-cov
-      uses: programmingwithalex/pytester-cov@v1.2.3
+      uses: programmingwithalex/pytester-cov@main
       with:
         pytest-root-dir: '.'
         cov-omit-list: 'test/*, temp/main3.py, temp/main4.py'
