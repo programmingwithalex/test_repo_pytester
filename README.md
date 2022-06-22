@@ -4,7 +4,7 @@ Copyright (c) 2021, [programmingwithalex](https://github.com/programmingwithalex
 
 ## Description
 
-This repo serves as a reference for the [YouTube video](https://www.youtube.com/watch?v=OOZtW3iF0is&list=PL0dOL8Z7pG3J6t1pqRQiNarBGY-ZnIJcq&index=3).
+This repo serves as a reference for the [YouTube video](https://www.youtube.com/watch?v=OQLcY5rqrmI&list=PLbn3jWIXv_ibMS6CFOKMZkOHimDB9xdU2&index=3).
 
 Demonstration of how to incorporate pytest code coverage into a Python project.
 
